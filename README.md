@@ -6,7 +6,7 @@ This repository contains solutions to various HakerRank problems that I have sol
 
 - **Problem 1: Merge Sorted Arrays**
   - [Link to the problem](https://www.hackerrank.com/challenges/binary-search-tree-1)
-  - Solution: [Binary Search Tree.sql](./Binary Search Tree.sql)
+  - Solution:`Binary Search Tree.sql`
 
 
 ## Usage
