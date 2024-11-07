@@ -7,7 +7,7 @@ This repository contains solutions to various SQL challenges on HackerRank. Each
 ### Problem List
 
 - **Problem 1: Advanced Select-Binary Tree Nodes**
-  - [Link to the problem]([https://www.hackerrank.com/challenges/revising-the-select-query/problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true))
+  - [Link to the problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)
    - Solution: [Binary Tree Nodes.sql](./Binary Tree Nodes.sql)
 
 
